@@ -7,4 +7,6 @@ void main() {
   // Nhập số giờ làm việc
   stdout.write('Nhập số giờ làm việc');
   int giolam = int.tryParse(stdin.readLineSync()!) ?? 0;/* Đọc số giờ người dùng nhập vào từ bàn phím */
+  // dfadsfádfsad
+  
 }
